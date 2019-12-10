@@ -1,7 +1,16 @@
 # dev-tweets
-List of tweets from developers and techies all around the world
 
+### Open Source project of collection of awesome tweets from Developers around the world
 
-[Hosted on Netlify](https://dev-tweets.netlify.com)
+[Live on Netlify](https://dev-tweets.netlify.com)
+
 
 [API powered by Twitter](https://developer.twitter.com/docs)
+
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
+
+
+## Author
+**[Ejiro Asiuwhu](https://twitter.com/EjiroCodes)**
+
