@@ -21,4 +21,26 @@ body {
     font-weight: 600;
     font-size: 2rem;
     line-height: 2;
+    padding: 2rem;
+    background-color: #0084b4;
+}
+
+h1 {
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+   
+}
+#tweet-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.twitter-items {
+    width: 40rem;
+    height: auto;
+    margin: 2rem;
 }
