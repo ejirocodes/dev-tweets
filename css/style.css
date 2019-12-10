@@ -62,7 +62,7 @@ h3 {
 
 @media all and (max-width: 425px) {
     body {
-        padding: 1rem;
+        padding: 2rem 1rem;
     }
     .twitter-items {
         width: 30rem;
