@@ -23,6 +23,7 @@ body {
     line-height: 2;
     padding: 2rem;
     background-color: #0084b4;
+    color: #fff;
 }
 
 h1 {
@@ -31,16 +32,31 @@ h1 {
     text-align: center;
     color: #fff;
     font-weight: 900;
-   
+    margin: 2rem 0 5rem 0;
+    
 }
-#tweet-container {
+
+h3 {
+    text-align: center;
+    margin: 4rem 0 2rem 0;
+}
+
+#portfolio-section {
     display: flex;
-    justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
+}
+
+#savage {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
 .twitter-items {
-    width: 40rem;
+    width: 35rem;
     height: auto;
     margin: 2rem;
 }
