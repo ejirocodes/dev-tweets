@@ -88,6 +88,22 @@
 
         </div>
     </div>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./service-worker.js', {
+                        scope: '/'
+                    })
+                    .then(reg => {
+                        console.log('service worker registered 😎...', reg.scope);
+                    })
+                    .catch(err => {
+                        console.log('Service worker registration failed', err);
+
+                    })
+            })
+        }
+    </script>
 </body>
 
 </html>
