@@ -10,15 +10,20 @@
     "background_color": "#0084b4",
     "icons": [
         {
-            "src": "images/icons/smiley-192x192.png",
-            "sizes": "192x192",
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
             "type": "image/png"
+        },
+        {
+            "src": "/favicon.ico",
+            "sizes": "32x32",
+            "type": "icon/ico"
         }
     ],
     "screenshots": [
         {
             "src": "assets/img/screenshot.png",
-            "sizes": "1280/920",
+            "sizes": "862/1754",
             "type": "image/png"
         }
     ]
