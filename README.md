@@ -4,6 +4,7 @@
 
 [Live on Netlify](https://dev-tweets.netlify.com)
 
+# Demo ![alt text](assets/image/screenshot.png)
 
 [API powered by Twitter](https://developer.twitter.com/docs)
 
